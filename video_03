@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<head>
+    <title>Formato de Texto</title>
+</head>
+<body>
+
+    <h1> Formateando el texto </h1>
+
+    <p> Texto normal o regular, se usa en los párrafos</p> <br>
+  
+    <i> Texto en cursiva </i> <br>
+    
+    <b> Texto en negrita </b> <br>
+    
+    <strong> Texto reforzado </strong> <br>
+    
+    <small> Texto pequeño </small> <br>
+    
+    <sub> Texto subíndice </sub> <br>
+    
+    <sup> Texto superíndice </sup> <br>
+    
+    <ins> Texto insertado </ins> <br>
+    
+    <!--Esto es un comentario  no se ve en el explorador web -->
+
+</body>
+</html>
